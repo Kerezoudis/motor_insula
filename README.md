@@ -15,7 +15,7 @@ Open the file “ins_mot_master.m”, enter the three-letter patient code in the
 and run each section. Each step of analysis is shown clearly in the functions called from this file. 
 
 The figures generated can be used to recreate all figures of the paper. 
-We have annotated the code in a manner that clearly explains its purpose. '
+We have annotated the code in a manner that clearly explains its purpose.
 
 Please note that we use a “code-section” approach to programming (each section headed by “%%”), 
 and it is intended that you evaluate each section (control-enter or command-enter) in sequence to understand each step.
